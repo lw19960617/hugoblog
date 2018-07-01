@@ -1,6 +1,6 @@
-baseURL = "https://just4tuts.github.io/"
+baseURL = "https://lw19960617.github.io/"
 theme = "hugo-goa"
-author = "M.G"
+author = "lw"
 title = "Another Hugo Blog"
 builddrafts = false
 canonifyurls = false
@@ -11,8 +11,8 @@ publishdir = "public"
 
 
 [params]
-author = "M.G"
-intro = "But nobody is not nothing"
+author = "lw"
+intro = "Say hello to world"
 description = "Description"
 authorimage = "mg.jpg"
 dateformat = "Jan 2, 2006"
@@ -23,11 +23,11 @@ keywords = "minimalist,blog,goa,hugo,developer"
 
 [params.social]
 github = "<username>"
-twitter = "<username>"
-facebook = "<username>"
+twitter = "a wall stop me"
+facebook = "a wall stop me"
 google = "<username>"
 stackoverflow = "<username>"
-email = "you@example.com"
+email = "739215526@qq,com"
 
 [params.extra]
 copyright = "copyright @ Rajesh Shenoy"
