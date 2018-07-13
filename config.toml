@@ -25,7 +25,7 @@ pygmentsCodefences      = true
     text = "poem"
 
 [[params.mainMenu]]
-    link = "/Linux"
+    link = "/linux"
     text = "Linux"
 
 [[params.mainMenu]]
