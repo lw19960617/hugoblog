@@ -33,6 +33,9 @@ pygmentsCodefences      = true
     text = "nothing"
 
 [[params.mainMenu]]
+    link = "/python"
+    text = "Python"
+[[params.mainMenu]]
     link = "/about"
     text = "who is lw?"
     
